@@ -1,0 +1,6 @@
+{
+  "name": "Yola Harvest Poultry",
+  "description": "Commercial poultry farm in Yola, Adamawa State, Nigeria. Hygienically dressed hormone-free broiler chicken, live birds, cut parts, and fresh table eggs with same-day delivery across Jimeta and Yola Town.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
