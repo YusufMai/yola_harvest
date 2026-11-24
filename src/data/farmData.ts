@@ -55,8 +55,8 @@ export interface FarmStandard {
 export const FARM_CONTACT = {
   brandName: 'Yola Harvest',
   fullBrandName: 'Yola Harvest Poultry',
-  whatsappNumber: '2348035550194',
-  displayPhone: '+234 803 555 0194',
+  whatsappNumber: '2348036083887',
+  displayPhone: '+234 803 608 3887',
   secondaryPhone: '+234 809 442 0180',
   email: 'orders@yolaharvest.ng',
   address: 'Km 12, Numan–Yola Road, Bajabure Axis, Yola, Adamawa State',

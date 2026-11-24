@@ -53,11 +53,11 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href={`tel:${FARM_CONTACT.whatsappNumber}`}
+                  href={`tel:+${FARM_CONTACT.whatsappNumber}`}
                   className="inline-flex items-center gap-2 hover:text-[#1B4332]"
                 >
                   <Phone className="w-4 h-4 text-[#4B5563]" aria-hidden="true" />
-                  <span className="tabular-nums">Call: {FARM_CONTACT.secondaryPhone}</span>
+                  <span className="tabular-nums">Call: {FARM_CONTACT.displayPhone}</span>
                 </a>
               </li>
               <li>
